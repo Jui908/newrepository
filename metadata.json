@@ -1,0 +1,6 @@
+{
+  "name": "KOREAN VOCAB",
+  "description": "Website học và ghi nhớ từ vựng tiếng Hàn hiệu quả với Flashcard Spaced Repetition, Thi thử TOPIK, Lộ trình học tập và Kiểm tra ngữ pháp thông minh bằng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
